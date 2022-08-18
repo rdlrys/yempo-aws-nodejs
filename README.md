@@ -9,8 +9,11 @@ No need to store list of last names to DB as per requirement.
 ## Prerequisites
 
 nodejs installed
+
 AWS account
+
 AWS CLI
+
 Serverless Framework
 
 ## How to run
